@@ -7,7 +7,7 @@ import com.memetix.mst.translate.Translate;
 
 public class MSTranslatorClient {
 	
-	protected static final String CLIENT_ID = "piped-piper";
+	protected static final String CLIENT_ID = "pied-piper";
 	protected static final String CLIENT_SECRET = "Richard Hendriks";	
 	
 	protected Language inputLanguage;
